@@ -78,6 +78,7 @@ int main()
         putpixel(x, y, 6);
     }
 
+    printf("Programmed by SIDDARTH A S (212224040316)");
     getch();
     return 0;
 }
@@ -88,7 +89,8 @@ int main()
 **Output :**
 
 
-<img width="637" height="477" alt="GDT_exp2" src="https://github.com/user-attachments/assets/d7c110ce-7174-4a01-bed5-0ceca8f38dbd" />
+
+<img width="637" height="475" alt="GDT_exp2" src="https://github.com/user-attachments/assets/fd68b432-bd26-4352-9061-b0b1cd0bbd78" />
 
 
 
