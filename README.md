@@ -4,6 +4,8 @@
 
  To  implement the Bresenham’s  algorithm for line using a c coding.
 
+---
+
 **ALGORITHM :**
 
    Step 1 : Start.
@@ -19,6 +21,8 @@
    Step  6 : Display the output.
 
    Step 7 : stop.
+
+---
 
 **Program :**
 ```
@@ -85,6 +89,7 @@ int main()
 
 ```
 
+---
 
 **Output :**
 
@@ -93,6 +98,7 @@ int main()
 <img width="637" height="475" alt="GDT_exp2" src="https://github.com/user-attachments/assets/fd68b432-bd26-4352-9061-b0b1cd0bbd78" />
 
 
+---
 
 **Result :**
 
